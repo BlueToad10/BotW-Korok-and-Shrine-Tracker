@@ -1,6 +1,6 @@
-PlateauSeeds 18 
+PlateauSeeds 8 
 HyruleSeeds 114 
-DualingSeeds 59 
+DualingSeeds 57 
 HatenoSeeds 66 
 LanayruSeeds 62 
 GerudoSeeds 68 
@@ -15,10 +15,10 @@ MountainSeeds 45
 AkalaSeeds 57 
 
  
-PlateauShrines 4 
-HyruleShrines 8 
-DualingShrines 9 
-HatenoShrines 7 
+PlateauShrines 0 
+HyruleShrines 5 
+DualingShrines 2 
+HatenoShrines 5 
 LanayruShrines 9 
 GerudoShrines 12 
 HighlandsShrines 6 
@@ -32,3 +32,8 @@ MountainShrines 9
 AkalaShrines 8 
 
  
+tower 0 
+tower 4 
+tower 1 
+tower 2 
+tower 3 
