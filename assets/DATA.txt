@@ -1,0 +1,34 @@
+PlateauSeeds 18 
+HyruleSeeds 114 
+DualingSeeds 59 
+HatenoSeeds 66 
+LanayruSeeds 62 
+GerudoSeeds 68 
+HighlandsSeeds 36 
+LakeSeeds 92 
+FaronSeeds 58 
+RidgelandSeeds 80 
+TabanthaSeeds 37 
+HebraSeeds 73 
+ForestSeeds 35 
+MountainSeeds 45 
+AkalaSeeds 57 
+
+ 
+PlateauShrines 4 
+HyruleShrines 8 
+DualingShrines 9 
+HatenoShrines 7 
+LanayruShrines 9 
+GerudoShrines 12 
+HighlandsShrines 6 
+LakeShrines 6 
+FaronShrines 8 
+RidgelandShrines 7 
+TabanthaShrines 6 
+HebraShrines 13 
+ForestShrines 8 
+MountainShrines 9 
+AkalaShrines 8 
+
+ 
